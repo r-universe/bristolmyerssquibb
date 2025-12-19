@@ -5,6 +5,15 @@
 [submodule "blockr.core"]
 	path = blockr.core
 	url = https://github.com/bristolmyerssquibb/blockr.core
+[submodule "blockr.dag"]
+	path = blockr.dag
+	url = https://github.com/bristolmyerssquibb/blockr.dag
 [submodule "blockr.dock"]
 	path = blockr.dock
 	url = https://github.com/bristolmyerssquibb/blockr.dock
+[submodule "blockr.dplyr"]
+	path = blockr.dplyr
+	url = https://github.com/bristolmyerssquibb/blockr.dplyr
+[submodule "blockr.ggplot"]
+	path = blockr.ggplot
+	url = https://github.com/bristolmyerssquibb/blockr.ggplot
