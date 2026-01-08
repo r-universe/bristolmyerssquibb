@@ -17,3 +17,6 @@
 [submodule "blockr.ggplot"]
 	path = blockr.ggplot
 	url = https://github.com/bristolmyerssquibb/blockr.ggplot
+[submodule "blockr.io"]
+	path = blockr.io
+	url = https://github.com/bristolmyerssquibb/blockr.io
