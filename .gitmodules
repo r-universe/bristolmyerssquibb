@@ -23,3 +23,7 @@
 [submodule "blockr.io"]
 	path = blockr.io
 	url = https://github.com/bristolmyerssquibb/blockr.io
+[submodule "g6R"]
+	path = g6R
+	url = https://github.com/cynkra/g6R
+	registered = false

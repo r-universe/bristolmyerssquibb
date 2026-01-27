@@ -1,0 +1,14 @@
+[
+  {
+    "package": "blockr.dock",
+    "url": "https://github.com/BristolMyersSquibb/blockr.dock",
+    "via": ["blockr.dag"],
+    "from": "blockr.dag"
+  },
+  {
+    "package": "g6R",
+    "url": "https://github.com/cynkra/g6R",
+    "via": ["blockr.dag"],
+    "from": "blockr.dag"
+  }
+]
