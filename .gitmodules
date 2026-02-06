@@ -26,5 +26,4 @@
 [submodule "g6R"]
 	path = g6R
 	url = https://github.com/cynkra/g6R
-	branch = feature/subtle-ports
 	registered = false

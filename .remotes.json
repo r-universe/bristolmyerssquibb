@@ -9,7 +9,6 @@
     "package": "g6R",
     "url": "https://github.com/cynkra/g6R",
     "via": ["blockr.dag"],
-    "branch": "feature/subtle-ports",
     "from": "blockr.dag"
   }
 ]
