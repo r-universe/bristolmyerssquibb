@@ -8,6 +8,12 @@
   {
     "package": "blockr.core",
     "url": "https://github.com/BristolMyersSquibb/blockr.core",
+    "via": ["blockr.dock"],
+    "from": "blockr.dock"
+  },
+  {
+    "package": "blockr.core",
+    "url": "https://github.com/BristolMyersSquibb/blockr.core",
     "via": ["blockr.io"],
     "from": "blockr.io"
   },
