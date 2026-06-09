@@ -27,3 +27,8 @@
 	path = blockr.ui
 	url = https://github.com/BristolMyersSquibb/blockr.ui
 	registered = false
+[submodule "shinytest2"]
+	path = shinytest2
+	url = https://github.com/nbenn/shinytest2
+	branch = wait-for-app-serving
+	registered = false
