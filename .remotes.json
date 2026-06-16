@@ -18,10 +18,29 @@
     "from": "blockr.io"
   },
   {
+    "package": "blockr.dock",
+    "url": "https://github.com/BristolMyersSquibb/blockr.dock",
+    "via": ["blockr.dag"],
+    "from": "blockr.dag"
+  },
+  {
+    "package": "blockr.ui",
+    "url": "https://github.com/BristolMyersSquibb/blockr.ui",
+    "via": ["blockr.dag", "blockr.dock"],
+    "from": "blockr.dag"
+  },
+  {
     "package": "blockr.ui",
     "url": "https://github.com/BristolMyersSquibb/blockr.ui",
     "via": ["blockr.dock"],
     "from": "blockr.dock"
+  },
+  {
+    "package": "shinytest2",
+    "url": "https://github.com/nbenn/shinytest2",
+    "via": ["blockr.dag", "blockr.dock"],
+    "branch": "wait-for-app-serving",
+    "from": "blockr.dag"
   },
   {
     "package": "shinytest2",
