@@ -27,6 +27,10 @@
 	path = blockr.ui
 	url = https://github.com/BristolMyersSquibb/blockr.ui
 	registered = false
+[submodule "g6R"]
+	path = g6R
+	url = https://github.com/cynkra/g6R
+	registered = false
 [submodule "shinytest2"]
 	path = shinytest2
 	url = https://github.com/nbenn/shinytest2

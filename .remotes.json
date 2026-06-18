@@ -36,6 +36,12 @@
     "from": "blockr.dock"
   },
   {
+    "package": "g6R",
+    "url": "https://github.com/cynkra/g6R",
+    "via": ["blockr.dag"],
+    "from": "blockr.dag"
+  },
+  {
     "package": "shinytest2",
     "url": "https://github.com/nbenn/shinytest2",
     "via": ["blockr.dag", "blockr.dock"],
