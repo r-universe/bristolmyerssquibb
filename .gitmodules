@@ -23,6 +23,10 @@
 [submodule "blockr.io"]
 	path = blockr.io
 	url = https://github.com/bristolmyerssquibb/blockr.io
+[submodule "blockr.theme"]
+	path = blockr.theme
+	url = https://github.com/BristolMyersSquibb/blockr.theme
+	registered = false
 [submodule "blockr.ui"]
 	path = blockr.ui
 	url = https://github.com/BristolMyersSquibb/blockr.ui
