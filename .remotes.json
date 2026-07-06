@@ -71,12 +71,5 @@
     "via": ["blockr.dag", "blockr.dock"],
     "branch": "wait-for-app-serving",
     "from": "blockr.dag"
-  },
-  {
-    "package": "shinytest2",
-    "url": "https://github.com/nbenn/shinytest2",
-    "via": ["blockr.dock"],
-    "branch": "wait-for-app-serving",
-    "from": "blockr.dock"
   }
 ]
