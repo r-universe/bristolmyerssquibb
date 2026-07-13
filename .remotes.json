@@ -8,12 +8,6 @@
   {
     "package": "blockr.core",
     "url": "https://github.com/BristolMyersSquibb/blockr.core",
-    "via": ["blockr.dock", "blockr.ui"],
-    "from": "blockr.dock"
-  },
-  {
-    "package": "blockr.core",
-    "url": "https://github.com/BristolMyersSquibb/blockr.core",
     "via": ["blockr.dplyr"],
     "from": "blockr.dplyr"
   },
@@ -54,22 +48,10 @@
     "from": "blockr.dag"
   },
   {
-    "package": "blockr.ui",
-    "url": "https://github.com/BristolMyersSquibb/blockr.ui",
-    "via": ["blockr.dock"],
-    "from": "blockr.dock"
-  },
-  {
     "package": "dockViewR",
     "url": "https://github.com/cynkra/dockViewR",
     "via": ["blockr.dag", "blockr.dock"],
     "from": "blockr.dag"
-  },
-  {
-    "package": "dockViewR",
-    "url": "https://github.com/cynkra/dockViewR",
-    "via": ["blockr.dock"],
-    "from": "blockr.dock"
   },
   {
     "package": "g6R",
@@ -83,12 +65,5 @@
     "via": ["blockr.dag", "blockr.dock"],
     "branch": "wait-for-app-serving",
     "from": "blockr.dag"
-  },
-  {
-    "package": "shinytest2",
-    "url": "https://github.com/nbenn/shinytest2",
-    "via": ["blockr.dock"],
-    "branch": "wait-for-app-serving",
-    "from": "blockr.dock"
   }
 ]
