@@ -54,6 +54,12 @@
     "from": "blockr.dag"
   },
   {
+    "package": "dockViewR",
+    "url": "https://github.com/cynkra/dockViewR",
+    "via": ["blockr.dock"],
+    "from": "blockr.dock"
+  },
+  {
     "package": "g6R",
     "url": "https://github.com/cynkra/g6R",
     "via": ["blockr.dag"],
