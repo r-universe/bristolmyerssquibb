@@ -79,9 +79,8 @@
   },
   {
     "package": "shinytest2",
-    "url": "https://github.com/nbenn/shinytest2",
+    "url": "https://github.com/rstudio/shinytest2",
     "via": ["blockr.dock"],
-    "branch": "wait-for-app-serving",
     "from": "blockr.dock"
   }
 ]
