@@ -41,6 +41,5 @@
 	registered = false
 [submodule "shinytest2"]
 	path = shinytest2
-	url = https://github.com/nbenn/shinytest2
-	branch = wait-for-app-serving
+	url = https://github.com/rstudio/shinytest2
 	registered = false

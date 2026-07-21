@@ -56,6 +56,12 @@
   {
     "package": "dockViewR",
     "url": "https://github.com/cynkra/dockViewR",
+    "via": ["blockr.dag", "blockr.dock"],
+    "from": "blockr.dag"
+  },
+  {
+    "package": "dockViewR",
+    "url": "https://github.com/cynkra/dockViewR",
     "via": ["blockr.dock"],
     "from": "blockr.dock"
   },
@@ -67,9 +73,8 @@
   },
   {
     "package": "shinytest2",
-    "url": "https://github.com/nbenn/shinytest2",
-    "via": ["blockr.dag"],
-    "branch": "wait-for-app-serving",
+    "url": "https://github.com/rstudio/shinytest2",
+    "via": ["blockr.dag", "blockr.dock"],
     "from": "blockr.dag"
   },
   {
