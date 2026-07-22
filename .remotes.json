@@ -63,7 +63,7 @@
     "package": "dockViewR",
     "url": "https://github.com/cynkra/dockViewR",
     "via": ["blockr.dock"],
-    "branch": "92-retire-state-source",
+    "branch": "95-panel-mount-event",
     "from": "blockr.dock"
   },
   {
