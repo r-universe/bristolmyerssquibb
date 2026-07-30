@@ -2,12 +2,6 @@
   {
     "package": "blockr.core",
     "url": "https://github.com/BristolMyersSquibb/blockr.core",
-    "via": ["blockr.dag"],
-    "from": "blockr.dag"
-  },
-  {
-    "package": "blockr.core",
-    "url": "https://github.com/BristolMyersSquibb/blockr.core",
     "via": ["blockr.dock"],
     "from": "blockr.dock"
   },
@@ -30,12 +24,6 @@
     "from": "blockr.io"
   },
   {
-    "package": "blockr.dock",
-    "url": "https://github.com/BristolMyersSquibb/blockr.dock",
-    "via": ["blockr.dag"],
-    "from": "blockr.dag"
-  },
-  {
     "package": "blockr.dplyr",
     "url": "https://github.com/BristolMyersSquibb/blockr.dplyr",
     "via": ["blockr.ggplot"],
@@ -48,35 +36,11 @@
     "from": "blockr.ggplot"
   },
   {
-    "package": "blockr.ui",
-    "url": "https://github.com/BristolMyersSquibb/blockr.ui",
-    "via": ["blockr.dag"],
-    "from": "blockr.dag"
-  },
-  {
-    "package": "dockViewR",
-    "url": "https://github.com/cynkra/dockViewR",
-    "via": ["blockr.dag", "blockr.dock"],
-    "from": "blockr.dag"
-  },
-  {
     "package": "dockViewR",
     "url": "https://github.com/cynkra/dockViewR",
     "via": ["blockr.dock"],
     "branch": "95-panel-mount-event",
     "from": "blockr.dock"
-  },
-  {
-    "package": "g6R",
-    "url": "https://github.com/cynkra/g6R",
-    "via": ["blockr.dag"],
-    "from": "blockr.dag"
-  },
-  {
-    "package": "shinytest2",
-    "url": "https://github.com/rstudio/shinytest2",
-    "via": ["blockr.dag", "blockr.dock"],
-    "from": "blockr.dag"
   },
   {
     "package": "shinytest2",
