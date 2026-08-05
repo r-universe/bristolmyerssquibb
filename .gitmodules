@@ -23,6 +23,9 @@
 [submodule "blockr.io"]
 	path = blockr.io
 	url = https://github.com/bristolmyerssquibb/blockr.io
+[submodule "blockr.session"]
+	path = blockr.session
+	url = https://github.com/bristolmyerssquibb/blockr.session
 [submodule "blockr.theme"]
 	path = blockr.theme
 	url = https://github.com/BristolMyersSquibb/blockr.theme
