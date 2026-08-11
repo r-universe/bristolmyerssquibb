@@ -35,6 +35,10 @@
 	url = https://github.com/cynkra/dockViewR
 	branch = 95-panel-mount-event
 	registered = false
+[submodule "g6R"]
+	path = g6R
+	url = https://github.com/cynkra/g6R
+	registered = false
 [submodule "shinytest2"]
 	path = shinytest2
 	url = https://github.com/rstudio/shinytest2
