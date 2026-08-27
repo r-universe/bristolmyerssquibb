@@ -30,6 +30,10 @@
 	path = blockr.theme
 	url = https://github.com/BristolMyersSquibb/blockr.theme
 	registered = false
+[submodule "blockr.ui"]
+	path = blockr.ui
+	url = https://github.com/BristolMyersSquibb/blockr.ui
+	registered = false
 [submodule "dockViewR"]
 	path = dockViewR
 	url = https://github.com/cynkra/dockViewR
