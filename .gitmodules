@@ -37,7 +37,6 @@
 [submodule "dockViewR"]
 	path = dockViewR
 	url = https://github.com/cynkra/dockViewR
-	branch = 95-panel-mount-event
 	registered = false
 [submodule "g6R"]
 	path = g6R

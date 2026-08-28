@@ -50,6 +50,12 @@
   {
     "package": "blockr.ui",
     "url": "https://github.com/BristolMyersSquibb/blockr.ui",
+    "via": ["blockr.dag", "blockr.dock"],
+    "from": "blockr.dag"
+  },
+  {
+    "package": "blockr.ui",
+    "url": "https://github.com/BristolMyersSquibb/blockr.ui",
     "via": ["blockr.dock"],
     "from": "blockr.dock"
   },
@@ -57,7 +63,6 @@
     "package": "dockViewR",
     "url": "https://github.com/cynkra/dockViewR",
     "via": ["blockr.dag", "blockr.dock"],
-    "branch": "95-panel-mount-event",
     "from": "blockr.dag"
   },
   {
