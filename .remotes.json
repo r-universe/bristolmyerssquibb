@@ -88,5 +88,11 @@
     "url": "https://github.com/rstudio/shinytest2",
     "via": ["blockr.dock"],
     "from": "blockr.dock"
+  },
+  {
+    "package": "typedjson",
+    "url": "https://github.com/nbenn/typedjson",
+    "via": ["blockr.core"],
+    "from": "blockr.core"
   }
 ]
