@@ -100,5 +100,11 @@
     "url": "https://github.com/nbenn/typedjson",
     "via": ["blockr.dock", "blockr.core"],
     "from": "blockr.dock"
+  },
+  {
+    "package": "typedjson",
+    "url": "https://github.com/nbenn/typedjson",
+    "via": ["blockr.dplyr", "blockr.core"],
+    "from": "blockr.dplyr"
   }
 ]
