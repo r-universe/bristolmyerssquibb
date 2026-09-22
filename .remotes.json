@@ -112,5 +112,11 @@
     "url": "https://github.com/nbenn/typedjson",
     "via": ["blockr.dplyr", "blockr.core"],
     "from": "blockr.dplyr"
+  },
+  {
+    "package": "typedjson",
+    "url": "https://github.com/nbenn/typedjson",
+    "via": ["blockr.io", "blockr.core"],
+    "from": "blockr.io"
   }
 ]
