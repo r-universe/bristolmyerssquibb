@@ -36,12 +36,6 @@
     "from": "blockr.dag"
   },
   {
-    "package": "blockr.dplyr",
-    "url": "https://github.com/BristolMyersSquibb/blockr.dplyr",
-    "via": ["blockr.ggplot"],
-    "from": "blockr.ggplot"
-  },
-  {
     "package": "blockr.theme",
     "url": "https://github.com/BristolMyersSquibb/blockr.theme",
     "via": ["blockr.ggplot"],
@@ -64,6 +58,12 @@
     "url": "https://github.com/BristolMyersSquibb/blockr.ui",
     "via": ["blockr.dplyr"],
     "from": "blockr.dplyr"
+  },
+  {
+    "package": "blockr.ui",
+    "url": "https://github.com/BristolMyersSquibb/blockr.ui",
+    "via": ["blockr.ggplot"],
+    "from": "blockr.ggplot"
   },
   {
     "package": "dockViewR",
