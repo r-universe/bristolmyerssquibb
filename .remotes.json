@@ -92,12 +92,6 @@
   {
     "package": "typedjson",
     "url": "https://github.com/nbenn/typedjson",
-    "via": ["blockr.core"],
-    "from": "blockr.core"
-  },
-  {
-    "package": "typedjson",
-    "url": "https://github.com/nbenn/typedjson",
     "via": ["blockr.dag", "blockr.dock", "blockr.core"],
     "from": "blockr.dag"
   },
