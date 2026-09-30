@@ -46,7 +46,3 @@
 	path = shinytest2
 	url = https://github.com/rstudio/shinytest2
 	registered = false
-[submodule "typedjson"]
-	path = typedjson
-	url = https://github.com/nbenn/typedjson
-	registered = false
