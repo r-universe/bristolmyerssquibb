@@ -42,6 +42,10 @@
 	path = g6R
 	url = https://github.com/cynkra/g6R
 	registered = false
+[submodule "reactives"]
+	path = reactives
+	url = https://github.com/nbenn/reactives
+	registered = false
 [submodule "shinytest2"]
 	path = shinytest2
 	url = https://github.com/rstudio/shinytest2
