@@ -102,6 +102,12 @@
     "from": "blockr.core"
   },
   {
+    "package": "reactives",
+    "url": "https://github.com/nbenn/reactives",
+    "via": ["blockr.dock", "blockr.core"],
+    "from": "blockr.dock"
+  },
+  {
     "package": "shinytest2",
     "url": "https://github.com/rstudio/shinytest2",
     "via": ["blockr.dag", "blockr.dock"],
