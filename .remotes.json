@@ -116,6 +116,12 @@
   {
     "package": "reactives",
     "url": "https://github.com/nbenn/reactives",
+    "via": ["blockr.ggplot", "blockr.core"],
+    "from": "blockr.ggplot"
+  },
+  {
+    "package": "reactives",
+    "url": "https://github.com/nbenn/reactives",
     "via": ["blockr.io", "blockr.core"],
     "from": "blockr.io"
   },
