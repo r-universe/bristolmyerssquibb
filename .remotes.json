@@ -104,6 +104,12 @@
   {
     "package": "reactives",
     "url": "https://github.com/nbenn/reactives",
+    "via": ["blockr.dag", "blockr.dock", "blockr.core"],
+    "from": "blockr.dag"
+  },
+  {
+    "package": "reactives",
+    "url": "https://github.com/nbenn/reactives",
     "via": ["blockr.dock", "blockr.core"],
     "from": "blockr.dock"
   },
