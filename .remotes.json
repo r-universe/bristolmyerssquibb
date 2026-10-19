@@ -42,6 +42,12 @@
     "from": "blockr.dag"
   },
   {
+    "package": "blockr.dock",
+    "url": "https://github.com/BristolMyersSquibb/blockr.dock",
+    "via": ["blockr.session"],
+    "from": "blockr.session"
+  },
+  {
     "package": "blockr.theme",
     "url": "https://github.com/BristolMyersSquibb/blockr.theme",
     "via": ["blockr.ggplot"],
@@ -74,7 +80,7 @@
   {
     "package": "blockr.ui",
     "url": "https://github.com/BristolMyersSquibb/blockr.ui",
-    "via": ["blockr.session"],
+    "via": ["blockr.session", "blockr.dock"],
     "from": "blockr.session"
   },
   {
@@ -88,6 +94,12 @@
     "url": "https://github.com/cynkra/dockViewR",
     "via": ["blockr.dock"],
     "from": "blockr.dock"
+  },
+  {
+    "package": "dockViewR",
+    "url": "https://github.com/cynkra/dockViewR",
+    "via": ["blockr.session", "blockr.dock"],
+    "from": "blockr.session"
   },
   {
     "package": "g6R",
@@ -132,6 +144,12 @@
     "from": "blockr.io"
   },
   {
+    "package": "reactives",
+    "url": "https://github.com/nbenn/reactives",
+    "via": ["blockr.session", "blockr.core"],
+    "from": "blockr.session"
+  },
+  {
     "package": "shinytest2",
     "url": "https://github.com/rstudio/shinytest2",
     "via": ["blockr.dag", "blockr.dock"],
@@ -142,5 +160,11 @@
     "url": "https://github.com/rstudio/shinytest2",
     "via": ["blockr.dock"],
     "from": "blockr.dock"
+  },
+  {
+    "package": "shinytest2",
+    "url": "https://github.com/rstudio/shinytest2",
+    "via": ["blockr.session", "blockr.dock"],
+    "from": "blockr.session"
   }
 ]
