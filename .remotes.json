@@ -1,5 +1,23 @@
 [
   {
+    "package": "blockr.ai",
+    "url": "https://github.com/BristolMyersSquibb/blockr.ai",
+    "via": ["blockr", "blockr.viz"],
+    "from": "blockr"
+  },
+  {
+    "package": "blockr.assistant",
+    "url": "https://github.com/BristolMyersSquibb/blockr.assistant",
+    "via": ["blockr", "blockr.viz"],
+    "from": "blockr"
+  },
+  {
+    "package": "blockr.core",
+    "url": "https://github.com/BristolMyersSquibb/blockr.core",
+    "via": ["blockr"],
+    "from": "blockr"
+  },
+  {
     "package": "blockr.core",
     "url": "https://github.com/BristolMyersSquibb/blockr.core",
     "via": ["blockr.dag", "blockr.dock"],
@@ -36,6 +54,24 @@
     "from": "blockr.session"
   },
   {
+    "package": "blockr.dag",
+    "url": "https://github.com/BristolMyersSquibb/blockr.dag",
+    "via": ["blockr"],
+    "from": "blockr"
+  },
+  {
+    "package": "blockr.dm",
+    "url": "https://github.com/BristolMyersSquibb/blockr.dm",
+    "via": ["blockr", "blockr.viz"],
+    "from": "blockr"
+  },
+  {
+    "package": "blockr.dock",
+    "url": "https://github.com/BristolMyersSquibb/blockr.dock",
+    "via": ["blockr"],
+    "from": "blockr"
+  },
+  {
     "package": "blockr.dock",
     "url": "https://github.com/BristolMyersSquibb/blockr.dock",
     "via": ["blockr.dag"],
@@ -48,10 +84,52 @@
     "from": "blockr.session"
   },
   {
+    "package": "blockr.dplyr",
+    "url": "https://github.com/BristolMyersSquibb/blockr.dplyr",
+    "via": ["blockr"],
+    "from": "blockr"
+  },
+  {
+    "package": "blockr.ggplot",
+    "url": "https://github.com/BristolMyersSquibb/blockr.ggplot",
+    "via": ["blockr"],
+    "from": "blockr"
+  },
+  {
+    "package": "blockr.io",
+    "url": "https://github.com/BristolMyersSquibb/blockr.io",
+    "via": ["blockr"],
+    "from": "blockr"
+  },
+  {
+    "package": "blockr.script",
+    "url": "https://github.com/BristolMyersSquibb/blockr.script",
+    "via": ["blockr"],
+    "from": "blockr"
+  },
+  {
+    "package": "blockr.session",
+    "url": "https://github.com/BristolMyersSquibb/blockr.session",
+    "via": ["blockr"],
+    "from": "blockr"
+  },
+  {
+    "package": "blockr.theme",
+    "url": "https://github.com/BristolMyersSquibb/blockr.theme",
+    "via": ["blockr", "blockr.ggplot"],
+    "from": "blockr"
+  },
+  {
     "package": "blockr.theme",
     "url": "https://github.com/BristolMyersSquibb/blockr.theme",
     "via": ["blockr.ggplot"],
     "from": "blockr.ggplot"
+  },
+  {
+    "package": "blockr.ui",
+    "url": "https://github.com/BristolMyersSquibb/blockr.ui",
+    "via": ["blockr", "blockr.dock"],
+    "from": "blockr"
   },
   {
     "package": "blockr.ui",
@@ -84,6 +162,18 @@
     "from": "blockr.session"
   },
   {
+    "package": "blockr.viz",
+    "url": "https://github.com/BristolMyersSquibb/blockr.viz",
+    "via": ["blockr"],
+    "from": "blockr"
+  },
+  {
+    "package": "dockViewR",
+    "url": "https://github.com/cynkra/dockViewR",
+    "via": ["blockr", "blockr.dock"],
+    "from": "blockr"
+  },
+  {
     "package": "dockViewR",
     "url": "https://github.com/cynkra/dockViewR",
     "via": ["blockr.dag", "blockr.dock"],
@@ -104,8 +194,20 @@
   {
     "package": "g6R",
     "url": "https://github.com/cynkra/g6R",
+    "via": ["blockr", "blockr.dag"],
+    "from": "blockr"
+  },
+  {
+    "package": "g6R",
+    "url": "https://github.com/cynkra/g6R",
     "via": ["blockr.dag"],
     "from": "blockr.dag"
+  },
+  {
+    "package": "reactives",
+    "url": "https://github.com/nbenn/reactives",
+    "via": ["blockr", "blockr.core"],
+    "from": "blockr"
   },
   {
     "package": "reactives",
@@ -148,6 +250,19 @@
     "url": "https://github.com/nbenn/reactives",
     "via": ["blockr.session", "blockr.core"],
     "from": "blockr.session"
+  },
+  {
+    "package": "shinychat",
+    "url": "https://github.com/posit-dev/shinychat",
+    "via": ["blockr", "blockr.viz", "blockr.ai"],
+    "subdir": "pkg-r",
+    "from": "blockr"
+  },
+  {
+    "package": "shinytest2",
+    "url": "https://github.com/rstudio/shinytest2",
+    "via": ["blockr", "blockr.dock"],
+    "from": "blockr"
   },
   {
     "package": "shinytest2",

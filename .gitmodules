@@ -5,12 +5,24 @@
 [submodule "blockr"]
 	path = blockr
 	url = https://github.com/bristolmyerssquibb/blockr
+[submodule "blockr.ai"]
+	path = blockr.ai
+	url = https://github.com/BristolMyersSquibb/blockr.ai
+	registered = false
+[submodule "blockr.assistant"]
+	path = blockr.assistant
+	url = https://github.com/BristolMyersSquibb/blockr.assistant
+	registered = false
 [submodule "blockr.core"]
 	path = blockr.core
 	url = https://github.com/bristolmyerssquibb/blockr.core
 [submodule "blockr.dag"]
 	path = blockr.dag
 	url = https://github.com/bristolmyerssquibb/blockr.dag
+[submodule "blockr.dm"]
+	path = blockr.dm
+	url = https://github.com/BristolMyersSquibb/blockr.dm
+	registered = false
 [submodule "blockr.dock"]
 	path = blockr.dock
 	url = https://github.com/bristolmyerssquibb/blockr.dock
@@ -23,6 +35,10 @@
 [submodule "blockr.io"]
 	path = blockr.io
 	url = https://github.com/bristolmyerssquibb/blockr.io
+[submodule "blockr.script"]
+	path = blockr.script
+	url = https://github.com/BristolMyersSquibb/blockr.script
+	registered = false
 [submodule "blockr.session"]
 	path = blockr.session
 	url = https://github.com/bristolmyerssquibb/blockr.session
@@ -33,6 +49,10 @@
 [submodule "blockr.ui"]
 	path = blockr.ui
 	url = https://github.com/BristolMyersSquibb/blockr.ui
+	registered = false
+[submodule "blockr.viz"]
+	path = blockr.viz
+	url = https://github.com/BristolMyersSquibb/blockr.viz
 	registered = false
 [submodule "dockViewR"]
 	path = dockViewR
@@ -45,6 +65,11 @@
 [submodule "reactives"]
 	path = reactives
 	url = https://github.com/nbenn/reactives
+	registered = false
+[submodule "shinychat"]
+	path = shinychat
+	url = https://github.com/posit-dev/shinychat
+	subdir = pkg-r
 	registered = false
 [submodule "shinytest2"]
 	path = shinytest2
